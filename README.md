@@ -4,9 +4,19 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Currently Learning:- ``Web Development``.
-- 🎓 &nbsp; Dedicated to mastering Web Technologies, fostering Open Source collaboration, and tackling challenges head-on. Engineering student with a passion for innovation, on a mission to create a brighter tech-driven future. 
-- ✍️ &nbsp; Pursuing Blog Writing as hobby.
+
+- 👩‍💻 &nbsp;  Web Developer | Problem Solver | Content Creator | Engineering Enthusiast 🚀
+
+- 🌟  &nbsp; 3rd-year engineering student crafting digital solutions and engaging content.
+
+- 💻  &nbsp; Proficient in web development, creating elegant, user-friendly interfaces.
+
+- 🔍  &nbsp; Problem-solving enthusiast, embracing challenges with creative solutions.
+
+- ✍️  &nbsp; Sharing tech insights and knowledge through captivating blogs.
+
+- 🚀📚  &nbsp; Let's connect for exciting collaborations! 🚀📚
+
 
 ### 🧰 Languages and Tools
 
